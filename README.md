@@ -1,0 +1,1 @@
+# kawethradb-ogrenci-kaydedici
